@@ -6,7 +6,7 @@
   "publisher": "cirocfc",
   "repository": {
     "type": "git",
-    "url": "git@github.com:yetanothercode/yet-another.git",
+    "url": "git+https://github.com/yetanothercode/yet-another.git",
     "directory": "packages/vscode-extension-pack"
   },
   "files": [
